@@ -57,10 +57,12 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 Inital score
 
-
-
-
-
+<img width="1260" alt="screen shot 2017-03-03 at 2 18 50 am" src="https://cloud.githubusercontent.com/assets/6621843/23547919/ee274490-ffb9-11e6-928a-7764fe4314fc.png">
 
 After optimization
 
+<img width="1265" alt="screen shot 2017-03-03 at 2 15 18 am" src="https://cloud.githubusercontent.com/assets/6621843/23547934/fc1ec0c8-ffb9-11e6-913d-b591bfe0f606.png">
+
+
+![screen shot 2017-03-03 at 2 13 47 am](https://cloud.githubusercontent.com/assets/6621843/23547946/0cdb9c88-ffba-11e6-858e-4186f41a3587.png)
+![screen shot 2017-03-03 at 2 26 42 am](https://cloud.githubusercontent.com/assets/6621843/23547890/d2fdfc0e-ffb9-11e6-9248-43ed4bff6157.png)
